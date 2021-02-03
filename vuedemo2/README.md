@@ -22,5 +22,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## Vue项目创建方式
 ``` 
-    vue init webpack vuedemo2
+vue init webpack vuedemo2
 ```
